@@ -12,6 +12,8 @@ We implement:
 
 ![fbm](assets/fBM_trajectories.png)
 
+![spx](assets/spx_calibration.png)
+
 fBM + fourier + quadratic hedging
 
 ### Disclaimer 
