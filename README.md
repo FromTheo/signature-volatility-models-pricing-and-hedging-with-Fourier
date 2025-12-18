@@ -10,6 +10,8 @@ We implement:
 
 ### Examples of illustrations 
 
+![fbm](assets/fBM_trajectories.png)
+
 fBM + fourier + quadratic hedging
 
 ### Disclaimer 
