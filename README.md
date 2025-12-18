@@ -4,8 +4,8 @@ This repository reproduces the results of  [Abi Jaber and Gérard (2025)](https:
 
 We implement:
 - exact characteristic function representations (OU, mGBM, CIR and path-dependent processes such as RL fBM),
-- Fourier-based pricing of European, Asian options and $q$-volatility swaps,
-- calibration on synthetic models (Quintic Ornstein–Uhlenbeck diffusion) and market data (SPX),
+- Fourier-based pricing of European, Asian options and $q$-volatility swaps (see `fourier_1.ipynb`), 
+- calibration on synthetic models (Quintic Ornstein–Uhlenbeck diffusion) and market data (SPX) (see `fourier_1.ipynb`), 
 - quadratic hedging by Fourier methods. 
 
 ### Examples of illustrations 
