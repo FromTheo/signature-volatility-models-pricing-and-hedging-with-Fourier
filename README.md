@@ -10,7 +10,7 @@ We implement:
 
 ### Examples of illustrations 
 
-![fbm](assets/fBM_trajectories.png)
+![fbm](assets/fbm.png)
 
 ![spx](assets/spx_calibration.png)
 
