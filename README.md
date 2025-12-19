@@ -14,7 +14,5 @@ We implement:
 
 ![spx](assets/spx_calibration.png)
 
-fBM + fourier + quadratic hedging
-
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 
