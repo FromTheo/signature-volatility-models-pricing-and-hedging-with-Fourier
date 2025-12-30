@@ -4,6 +4,7 @@ This repository reproduces the results of  [Abi Jaber and Gérard (2025)](https:
 
 We implement:
 - exact characteristic function representations: OU, mGBM, CIR and path-dependent processes such as RL fBM (see `trajectories.ipynb`),
+- an Elastic Net regression to estimate the coefficients of linear combinations of the time-augmented Brownian motion for non-signature payoffs (see `regression.ipynb`), 
 - Fourier-based pricing of European, Asian options and $q$-volatility swaps (see `fourier_1.ipynb`), 
 - calibration on synthetic models (Quintic Ornstein–Uhlenbeck diffusion) and market data (SPX) (see `fourier_1.ipynb`), 
 - quadratic hedging by Fourier methods (see `fourier_2.ipynb`). 
