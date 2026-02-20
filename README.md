@@ -9,6 +9,8 @@ We implement:
 - calibration on synthetic models (Quintic Ornstein–Uhlenbeck diffusion) and market data (SPX) (see `fourier_1.ipynb`), 
 - quadratic hedging by Fourier methods (see `fourier_2.ipynb`). 
 
+In addition, we attach two technical notes: `heston_char_func.pdf`, which details the derivation of the Heston characteristic function (including the martingale justification), and `steinstein_char_func.pdf`, which covers the characteristic function in the Stein–Stein model.
+
 ### Examples of illustrations 
 
 ![fbm](assets/fbm.png)
