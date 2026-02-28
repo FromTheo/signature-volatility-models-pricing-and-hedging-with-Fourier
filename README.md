@@ -17,5 +17,7 @@ In addition, we attach two technical notes: `heston_char_func.pdf`, which detail
 
 ![spx](assets/spx_calibration.png)
 
+![qh](assets/pnl_quadratic_hedging_put_europ_steinstein.png)
+
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 
