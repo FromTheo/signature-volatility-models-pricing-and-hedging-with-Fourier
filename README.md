@@ -8,7 +8,7 @@ We implement:
 - Fourier-based pricing of European, Asian options and $q$-volatility swaps (see `fourier_1.ipynb`), 
 - calibration on synthetic models (Quintic Ornstein–Uhlenbeck diffusion) and market data (SPX) (see `fourier_1.ipynb`), 
 - quadratic hedging by Fourier methods (see `fourier_2.ipynb`),
-- illustrate the martingality condition as shown in [Abi Jabe, Gassiat and Sotnikov (2025)](https://arxiv.org/pdf/2503.17103) (see `martingale_property.ipynb`). 
+- illustrate the martingality condition as shown in [Abi Jaber, Gassiat and Sotnikov (2025)](https://arxiv.org/pdf/2503.17103) (see `martingale_property.ipynb`). 
 
 In addition, we attach two technical notes: `heston_char_func.pdf`, which details the derivation of the Heston characteristic function (including the martingale justification), and `steinstein_char_func.pdf`, which covers the characteristic function in the Stein–Stein model.
 
