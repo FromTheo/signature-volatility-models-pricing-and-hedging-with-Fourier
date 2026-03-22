@@ -9,7 +9,7 @@ We implement:
 - calibration on synthetic models (Quintic Ornstein–Uhlenbeck diffusion) and market data (SPX) (see `fourier_1.ipynb`), 
 - quadratic hedging by Fourier methods (see `fourier_2.ipynb`),
 - illustrate the martingality condition as shown in [Abi Jaber, Gassiat and Sotnikov (2025)](https://arxiv.org/pdf/2503.17103) (see `martingale_property.ipynb`),
-- computations of the (conditional) moments of $t\longmapsto \left\langle \mathbf{\ell}, \widehat{\mathbb{W}}_t\right\rangle$, as described in [Abi Jaber, Gérard and Huang (2025)](https://arxiv.org/pdf/2407.04956). 
+- computations of the (conditional) moments of $t\longmapsto \left\langle \mathbf{\ell}, \widehat{\mathbb{W}}_t\right\rangle$, as described in [Abi Jaber, Gérard and Huang (2025)](https://arxiv.org/pdf/2407.04956) (see `moments.ipynb`).  
 
 In addition, we attach two technical notes: `heston_char_func.pdf`, which details the derivation of the Heston characteristic function (including the martingale justification), and `steinstein_char_func.pdf`, which covers the characteristic function in the Stein–Stein model.
 
